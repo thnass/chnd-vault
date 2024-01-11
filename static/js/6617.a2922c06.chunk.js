@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchnd_staking=self.webpackChunkchnd_staking||[]).push([[6617],{56617:(s,a,e)=>{e.r(a),e.d(a,{default:()=>k.I});var k=e(40006)}}]);
